@@ -3,7 +3,7 @@ package ru.test.example;
 import android.content.Context;
 
 /**
- * DON'T MODIFY THIS FILE - old ver
+ * DON'T MODIFY THIS FILE
  */
 public class Loader
 {
